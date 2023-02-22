@@ -1,5 +1,4 @@
 # **HACKTIV8 Talent Fair Challenge**
-### Final Project - FTDS Batch 013 - Group 02
 
 ## Introduction
 These project are part of Hacktiv8 Talent Fair Challenge. The project are separated in two parts according to the company proposed problem with the dataset.
